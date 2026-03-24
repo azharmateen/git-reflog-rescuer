@@ -1,5 +1,8 @@
 # git-reflog-rescuer
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Beautiful TUI that turns the scary `git reflog` into a visual timeline for recovering lost commits.
 
 ## Features
